@@ -2,6 +2,4 @@ This is my first line of file1.txt
 This is my second line of file1.txt
 s is third line of file1
 This is my fourth line of file1
-This is fifth line
-:wq
 
